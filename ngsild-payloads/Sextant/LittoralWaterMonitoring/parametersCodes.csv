@@ -35,7 +35,6 @@ YTXs-TEFs,toxineYtx
 ASP,toxineASP
 TOXPSP,toxinePSP
 FLORPAR,partialFlora
-COLIFORM,faecalColiform
-COLIFTOT,totalColiform
+ECOLI,faecalColiform
 ENTEROCO,faecalEnterococcus
 MESORG,organicSuspendedMatter

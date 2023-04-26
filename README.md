@@ -1,3 +1,3 @@
 # SMBT
 
-This repository has moved to https://github.com/SMBT-ROL/smbt-data-models/
+This repository contains data models, referential data and some samples related to the ROL project led by the SMBT.

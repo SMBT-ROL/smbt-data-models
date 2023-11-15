@@ -1,0 +1,11 @@
+{
+  "@context": {
+      "municipality": "https://schema.org/municipality",
+      "waterway": "https://schema.org/waterway",
+      "weather": "https://schema.org/weather",
+      "photo": "https://schema.org/photo",
+      "dataStatus": "https://schema.org/dataStatus",
+      "commentAdmin": "https://schema.org/commentAdmin",
+      "order": "https://schema.org/order"
+  }
+}

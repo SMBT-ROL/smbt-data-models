@@ -1,0 +1,23 @@
+{
+  "id": "urn:ngsi-ld:ObservedWaterFlow:dry:04",
+  "type": "ObservedWaterFlow",
+  "title": {
+    "type": "Property",
+    "value": "Assec",
+    "waterflowKey": {
+      "type": "Property",
+      "value": "dry"
+    }
+  },
+  "specificAccessPolicy": {
+    "type": "Property",
+    "value": "AUTH_READ"
+  },
+  "position": {
+    "type": "Property",
+    "value": 1
+  },
+  "@context": [
+    "https://raw.githubusercontent.com/SMBT-ROL/smbt-data-models/master/jsonld-contexts/smbt-rol.jsonld"
+  ]
+}

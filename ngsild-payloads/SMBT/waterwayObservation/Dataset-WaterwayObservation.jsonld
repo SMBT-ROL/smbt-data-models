@@ -1,0 +1,45 @@
+{
+  "id": "urn:ngsi-ld:Dataset:ObservationCoursDEau",
+  "type": "Dataset",
+  "description": {
+    "type": "Property",
+    "value": "Le jeu de données \"Observations Cours d'eau\" inclut des informations sur les stations de distribution et des détails sur l'objet observé, le moment de l'observation, la météo, une photo, et des commentaires, offrant ainsi une vue complète des conditions des cours d'eau."
+  },
+  "title": {
+    "type": "Property",
+    "value": "Données d'observation des cours d'eau"
+  },
+  "catalog": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:Catalog:SMBT"
+  },
+  "specificAccessPolicy": {
+    "type": "Property",
+    "value": "AUTH_READ"
+  },
+  "theme": [
+    {
+      "type": "Relationship",
+      "datasetId": "urn:ngsi-ld:Dataset:BiodiversiteHabitats",
+      "object": "urn:ngsi-ld:Theme:BiodiversiteHabitats"
+    },
+    {
+      "type": "Relationship",
+      "datasetId": "urn:ngsi-ld:Dataset:PechesCulturesMarines",
+      "object": "urn:ngsi-ld:Theme:PechesCulturesMarines"
+    },
+    {
+      "type": "Relationship",
+      "datasetId": "urn:ngsi-ld:Dataset:RisquesEnvironnement",
+      "object": "urn:ngsi-ld:Theme:RisquesEnvironnement"
+    },
+    {
+      "type": "Relationship",
+      "datasetId": "urn:ngsi-ld:Dataset:EauNutriments",
+      "object": "urn:ngsi-ld:Theme:EauNutriments"
+    }
+  ],
+  "@context": [
+    "https://raw.githubusercontent.com/SMBT-ROL/smbt-data-models/master/jsonld-contexts/smbt-rol.jsonld"
+  ]
+}

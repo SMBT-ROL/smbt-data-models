@@ -1,0 +1,62 @@
+{
+  "id": "urn:ngsi-ld:Distribution:WaterwayObservation:GigeanRieutord1:001",
+  "type": "Distribution",
+  "servesDataset": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:Dataset:ObservationCoursDEau"
+  },
+  "specificAccessPolicy": {
+    "type": "Property",
+    "value": "AUTH_READ"
+  },
+  "addressLocality": {
+    "type": "Property",
+    "value": "Gigean"
+  },
+  "title": {
+    "type": "Property",
+    "value": "Gigean Rieutord 1"
+  },
+  "waterway": {
+    "type": "Property",
+    "value": "Ruisseau du Rieutord"
+  },
+  "observedFlow": {
+    "type": "Relationship",
+    "comment": {
+      "type": "Property",
+      "value": "User comment"
+    },
+    "adminComment": {
+      "type": "Property",
+      "value": "Admin comment"
+    },
+    "dataStatus": {
+      "type": "Property",
+      "value": "Validated"
+    },
+    "photo": {
+      "type": "Property",
+      "value": "http://localhost/abc.jpeg"
+    },
+    "weather": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:WeatherCondition:Cloudy"
+    },
+    "object": "urn:ngsi-ld:ObservedWaterFlow:Dry",
+    "observedAt": "2023-11-15T14:29:00Z"
+  },
+  "location": {
+    "type": "GeoProperty",
+    "value": {
+      "type": "Point",
+      "coordinates": [
+        43.498364,
+        3.707526
+      ]
+    }
+  },
+  "@context": [
+    "https://raw.githubusercontent.com/SMBT-ROL/smbt-data-models/master/jsonld-contexts/smbt-rol.jsonld"
+  ]
+}

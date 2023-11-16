@@ -1,0 +1,23 @@
+{
+  "id": "urn:ngsi-ld:WeatherCondition:cloudy:03",
+  "type": "WeatherCondition",
+  "title": {
+    "type": "Property",
+    "value": "Nuageux",
+    "weatherConditionKey": {
+      "type": "Property",
+      "value": "cloudy"
+    }
+  },
+  "specificAccessPolicy": {
+    "type": "Property",
+    "value": "AUTH_READ"
+  },
+  "position": {
+    "type": "Property",
+    "value": 2
+  },
+  "@context": [
+    "https://raw.githubusercontent.com/SMBT-ROL/smbt-data-models/master/jsonld-contexts/smbt-rol.jsonld"
+  ]
+}

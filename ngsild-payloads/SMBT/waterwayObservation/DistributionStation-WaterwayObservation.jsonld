@@ -1,0 +1,62 @@
+{
+  "id": "urn:ngsi-ld:Distribution:WaterwayObservation:GigeanRieutord1:001",
+  "type": "Distribution",
+  "servesDataset": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:Dataset:ObservationCoursDEau"
+  },
+  "specificAccessPolicy": {
+    "type": "Property",
+    "value": "AUTH_READ"
+  },
+  "municipality": {
+    "type": "Property",
+    "value": "Gigean"
+  },
+  "title": {
+    "type": "Property",
+    "value": "Gigean Rieutord 1"
+  },
+  "waterway": {
+    "type": "Property",
+    "value": "Ruisseau du Rieutord"
+  },
+  "flow": {
+    "type": "Relationship",
+    "comment": {
+      "type": "Property",
+      "value": "User comment"
+    },
+    "commentAdmin": {
+      "type": "Property",
+      "value": "Admin comment"
+    },
+    "dataStatus": {
+      "type": "Property",
+      "value": "Validated"
+    },
+    "photo": {
+      "type": "Property",
+      "value": "https://smbt-minio-recette.stellio.io/test-acces/294b99f0-27b9-45c8-aa8c-db38295a377c.jpeg"
+    },
+    "weather": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:WeatherCondition:cloudy:03"
+    },
+    "object": "urn:ngsi-ld:ObservedWaterFlow:dry:04",
+    "observedAt": "2023-11-15T14:29:00Z"
+  },
+  "location": {
+    "type": "GeoProperty",
+    "value": {
+      "type": "Point",
+      "coordinates": [
+        43.498364,
+        3.707526
+      ]
+    }
+  },
+  "@context": [
+    "https://raw.githubusercontent.com/SMBT-ROL/smbt-data-models/master/jsonld-contexts/smbt-rol.jsonld"
+  ]
+}

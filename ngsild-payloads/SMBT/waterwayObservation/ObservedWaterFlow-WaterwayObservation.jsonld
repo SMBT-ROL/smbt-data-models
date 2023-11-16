@@ -3,19 +3,19 @@
   "type": "ObservedWaterFlow",
   "title": {
     "type": "Property",
-    "value": "Assec"
+    "value": "Assec",
+    "waterflowKey": {
+      "type": "Property",
+      "value": "dry"
+    }
   },
   "specificAccessPolicy": {
     "type": "Property",
     "value": "AUTH_READ"
   },
-  "order": {
+  "position": {
     "type": "Property",
     "value": 1
-  },
-  "value": {
-    "type": "Property",
-    "value": "dry"
   },
   "@context": [
     "https://raw.githubusercontent.com/SMBT-ROL/smbt-data-models/master/jsonld-contexts/smbt-rol.jsonld"

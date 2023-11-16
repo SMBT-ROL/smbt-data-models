@@ -3,19 +3,19 @@
   "type": "WeatherCondition",
   "title": {
     "type": "Property",
-    "value": "Nuageux"
+    "value": "Nuageux",
+    "weatherConditionKey": {
+      "type": "Property",
+      "value": "cloudy"
+    }
   },
   "specificAccessPolicy": {
     "type": "Property",
     "value": "AUTH_READ"
   },
-  "order": {
+  "position": {
     "type": "Property",
     "value": 2
-  },
-  "value": {
-    "type": "Property",
-    "value": "cloudy"
   },
   "@context": [
     "https://raw.githubusercontent.com/SMBT-ROL/smbt-data-models/master/jsonld-contexts/smbt-rol.jsonld"

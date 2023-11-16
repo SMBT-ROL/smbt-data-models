@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "ObservedWaterFlow": "https://smartdatamodels.org/ObservedWaterFlow",
+    "WeatherCondition": "https://smartdatamodels.org/WeatherCondition",
+    "adminComment": "https://smartdatamodels.org/adminComment",
+    "comment": "https://smartdatamodels.org/comment",
+    "dataStatus": "https://smartdatamodels.org/dataStatus",
+    "observedFlow": "https://smartdatamodels.org/observedFlow",
+    "photo": "https://schema.org/photo",
+    "position": "https://schema.org/position",
+    "waterflowKey": "https://smartdatamodels.org/waterflowKey",
+    "waterway": "https://smartdatamodels.org/waterway",
+    "weather": "https://smartdatamodels.org/weather",
+    "weatherConditionKey": "https://smartdatamodels.org/weatherConditionKey"
+  }
+}

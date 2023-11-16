@@ -9,7 +9,7 @@
     "type": "Property",
     "value": "AUTH_READ"
   },
-  "municipality": {
+  "addressLocality": {
     "type": "Property",
     "value": "Gigean"
   },
@@ -21,13 +21,13 @@
     "type": "Property",
     "value": "Ruisseau du Rieutord"
   },
-  "flow": {
+  "observedFlow": {
     "type": "Relationship",
     "comment": {
       "type": "Property",
       "value": "User comment"
     },
-    "commentAdmin": {
+    "adminComment": {
       "type": "Property",
       "value": "Admin comment"
     },
@@ -37,13 +37,13 @@
     },
     "photo": {
       "type": "Property",
-      "value": "https://smbt-minio-recette.stellio.io/test-acces/294b99f0-27b9-45c8-aa8c-db38295a377c.jpeg"
+      "value": "http://localhost/abc.jpeg"
     },
     "weather": {
       "type": "Relationship",
-      "object": "urn:ngsi-ld:WeatherCondition:cloudy:03"
+      "object": "urn:ngsi-ld:WeatherCondition:Cloudy"
     },
-    "object": "urn:ngsi-ld:ObservedWaterFlow:dry:04",
+    "object": "urn:ngsi-ld:ObservedWaterFlow:Dry",
     "observedAt": "2023-11-15T14:29:00Z"
   },
   "location": {

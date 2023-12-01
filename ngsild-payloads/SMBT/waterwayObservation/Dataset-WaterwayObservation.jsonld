@@ -25,11 +25,6 @@
     },
     {
       "type": "Relationship",
-      "datasetId": "urn:ngsi-ld:Dataset:PechesCulturesMarines",
-      "object": "urn:ngsi-ld:Theme:PechesCulturesMarines"
-    },
-    {
-      "type": "Relationship",
       "datasetId": "urn:ngsi-ld:Dataset:RisquesEnvironnement",
       "object": "urn:ngsi-ld:Theme:RisquesEnvironnement"
     },

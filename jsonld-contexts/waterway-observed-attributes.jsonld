@@ -10,6 +10,7 @@
     "waterflowKey": "https://smartdatamodels.org/waterflowKey",
     "waterway": "https://smartdatamodels.org/waterway",
     "weather": "https://smartdatamodels.org/weather",
-    "weatherConditionKey": "https://smartdatamodels.org/weatherConditionKey"
+    "weatherConditionKey": "https://smartdatamodels.org/weatherConditionKey",
+    "station": "https://smartdatamodels.org/station"
   }
 }

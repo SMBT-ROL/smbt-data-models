@@ -1,0 +1,40 @@
+{
+  "id": "urn:ngsi-ld:Distribution:WaterwayObservation:5ee0c0a0-7f8d-4f8b-b639-44ed2971d435",
+  "type": "Distribution",
+  "servesDataset": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:Dataset:ObservationCoursDEau"
+  },
+  "comment": {
+    "type": "Property",
+    "value": "test"
+  },
+  "photo": {
+    "type": "Property",
+    "value": "http://localhost/abc.jpeg"
+  },
+  "adminComment": {
+    "type": "Property",
+    "value": "oui"
+  },
+  "dataStatus": {
+    "type": "Property",
+    "value": "Validated"
+  },
+  "observedFlow": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:ObservedWaterFlow:Dry",
+    "observedAt": "2023-11-30T12:59:00.000Z"
+  },
+  "weather": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:WeatherCondition:Rainy"
+  },
+  "station": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:Station:WaterwayStation:GigeanRieutord2"
+  },
+  "@context": [
+    "https://raw.githubusercontent.com/SMBT-ROL/smbt-data-models/master/jsonld-contexts/smbt-rol.jsonld"
+  ]
+}

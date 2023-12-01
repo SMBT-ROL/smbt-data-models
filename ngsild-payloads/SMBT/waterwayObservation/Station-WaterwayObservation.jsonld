@@ -1,0 +1,33 @@
+{
+  "id": "urn:ngsi-ld:Station:WaterwayStation:GigeanRieutord1",
+  "type": "Station",
+  "specificAccessPolicy": {
+    "type": "Property",
+    "value": "AUTH_READ"
+  },
+  "addressLocality": {
+    "type": "Property",
+    "value": "Gigean"
+  },
+  "title": {
+    "type": "Property",
+    "value": "Gigean Rieutord 1"
+  },
+  "waterway": {
+    "type": "Property",
+    "value": "Ruisseau du Rieutord"
+  },
+  "location": {
+    "type": "GeoProperty",
+    "value": {
+      "type": "Point",
+      "coordinates": [
+        43.498364,
+        3.707526
+      ]
+    }
+  },
+  "@context": [
+    "https://raw.githubusercontent.com/SMBT-ROL/smbt-data-models/master/jsonld-contexts/smbt-rol.jsonld"
+  ]
+}

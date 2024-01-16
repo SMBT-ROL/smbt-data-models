@@ -82,6 +82,6 @@
     }
   ],
   "@context": [
-    "https://raw.githubusercontent.com/easy-global-market/smbt-data-models/master/jsonld-contexts/smbt-rol.jsonld"
+    "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/smbt-rol.jsonld"
   ]
 }

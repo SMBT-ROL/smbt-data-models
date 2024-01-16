@@ -35,6 +35,6 @@
     }
   ],
   "@context": [
-    "https://raw.githubusercontent.com/SMBT-ROL/smbt-data-models/master/jsonld-contexts/smbt-rol.jsonld"
+    "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/smbt-rol.jsonld"
   ]
 }

@@ -1,0 +1,54 @@
+{
+        "id": "urn:ngsi-ld:ShellfishProductionArea:d3d11275-7a33-4c6a-98b3-75012c9d8d31",
+        "type": "ShellfishProductionArea",
+        "name": {
+            "type": "Property",
+            "value": "Vendres"
+        },
+        "description": {
+            "type": "Property",
+            "value": "Étang de Vendres"
+        },
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.23956422,
+                            43.27049127
+                        ],
+                        [
+                            3.2131324,
+                            43.27025754
+                        ],
+                        [
+                            3.1801664,
+                            43.22831953
+                        ],
+                        [
+                            3.19498291,
+                            43.18232378
+                        ],
+                        [
+                            3.21989173,
+                            43.17217724
+                        ],
+                        [
+                            3.29115397,
+                            43.22989612
+                        ],
+                        [
+                            3.23975708,
+                            43.27161494
+                        ],
+                        [
+                            3.23956422,
+                            43.27049127
+                        ]
+                    ]
+                ]
+            }
+        }
+    }

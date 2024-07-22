@@ -1,0 +1,6 @@
+{
+  "@context": [
+    "https://easy-global-market.github.io/ngsild-api-data-models/user/user.jsonld",
+    "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/user.jsonld"
+  ]
+}

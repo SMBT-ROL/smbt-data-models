@@ -32,5 +32,9 @@
       "datasetId": "urn:ngsi-ld:Dataset:318d42fe-defc-4b44-aeac-7fc82a40c73f",
       "object": "urn:ngsi-ld:ShellfishProductionArea:318d42fe-defc-4b44-aeac-7fc82a40c73f"
     }
-  ]
+  ],
+  "profile": {
+    "type": "Property",
+    "value": "conchyliculteur"
+  }
 }

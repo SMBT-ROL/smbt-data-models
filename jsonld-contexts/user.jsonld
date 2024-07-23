@@ -1,5 +1,6 @@
 {
    "@context": {
-     "subscribedToProductionAreas": "https://vocab.egm.io/subscribedToProductionAreas"
+      "profile": "https://vocab.egm.io/profile",
+      "subscribedToProductionAreas": "https://vocab.egm.io/subscribedToProductionAreas"
    }
 }

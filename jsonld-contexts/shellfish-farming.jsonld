@@ -54,7 +54,7 @@
         "regulationText": "https://schema.org/regulationText",
         "sampleSize": "https://smart-data-models.org/sampleSize",
         "sanitaryStatus": "https://schema.org/sanitaryStatus",
-        "ShellfishProductionArea": "https://smart-data-models.org/ShellfishProductionArea",
+        "ShellfishProductionArea": "https://vocab.egm.io/ShellfishProductionArea",
         "ShellfishTable": "https://schema.org/ShellfishTable",
         "size": "https://smart-data-models.org/size",
         "species": "https://schema.org/species",

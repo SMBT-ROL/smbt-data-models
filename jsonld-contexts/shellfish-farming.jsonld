@@ -32,6 +32,7 @@
         "gp2": "https://schema.org/gp2",
         "gp3": "https://schema.org/gp3",
         "hasShellfishTable": "https://smart-data-models.org/hasShellfishTable",
+        "hasSubZones": "https://smart-data-models.org/hasSubZones",
         "initialDensity": "https://smart-data-models.org/initialDensity",
         "inseeNumber": "https://smart-data-models.org/inseeNumber",
         "lastModifiedAt": "https://schema.org/lastModifiedAt",

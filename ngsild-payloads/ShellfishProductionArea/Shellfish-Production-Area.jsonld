@@ -50,5 +50,9 @@
                     ]
                 ]
             }
+        },
+        "hasSubZones": {
+                "type": "Property",
+                "value": true
         }
     }

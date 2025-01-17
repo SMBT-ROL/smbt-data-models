@@ -2,6 +2,7 @@
    "@context": {
       "profile": "https://vocab.egm.io/profile",
       "subscribedToProductionAreas": "https://vocab.egm.io/subscribedToProductionAreas",
-      "expoPushToken": "https://vocab.egm.io/expoPushToken"
+      "expoPushToken": "https://vocab.egm.io/expoPushToken",
+      "alertChannels": "https://vocab.egm.io/alertChannels"
    }
 }

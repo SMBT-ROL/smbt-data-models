@@ -40,5 +40,9 @@
   "expoPushToken": {
     "type": "Property",
     "value": "Secret-Expo-Token"
+  },
+  "alertChannels": {
+    "type": "Property",
+    "value": ["email", "push"]
   }
 }

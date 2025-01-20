@@ -41,16 +41,8 @@
     "type": "Property",
     "value": "Secret-Expo-Token"
   },
-  "alertChannels": [
-    {
-      "type": "Property",
-      "datasetId": "urn:ngsi-ld:Dataset:EmailNotifications",
-      "value": true
-    },
-    {
-      "type": "Property",
-      "datasetId": "urn:ngsi-ld:Dataset:PushNotifications",
-      "value": false
-    }
-  ]
+  "alertChannels": {
+    "type": "Property",
+    "value": ["email", "push"]
+  }
 }

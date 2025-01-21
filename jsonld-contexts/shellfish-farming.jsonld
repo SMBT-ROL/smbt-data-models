@@ -55,6 +55,7 @@
         "regulationText": "https://schema.org/regulationText",
         "sampleSize": "https://smart-data-models.org/sampleSize",
         "sanitaryStatus": "https://schema.org/sanitaryStatus",
+        "ShellfishBatch": "https://vocab.egm.io/ShellfishBatch",
         "ShellfishProductionArea": "https://vocab.egm.io/ShellfishProductionArea",
         "ShellfishTable": "https://schema.org/ShellfishTable",
         "siretNumber": "https://smart-data-models.org/siretNumber",

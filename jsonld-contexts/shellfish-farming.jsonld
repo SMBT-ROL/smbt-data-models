@@ -57,6 +57,7 @@
         "sanitaryStatus": "https://schema.org/sanitaryStatus",
         "ShellfishProductionArea": "https://vocab.egm.io/ShellfishProductionArea",
         "ShellfishTable": "https://schema.org/ShellfishTable",
+        "siretNumber": "https://smart-data-models.org/siretNumber",
         "size": "https://smart-data-models.org/size",
         "species": "https://schema.org/species",
         "specificSpecies": "https://schema.org/specificSpecies",

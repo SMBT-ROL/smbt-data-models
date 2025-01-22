@@ -1,0 +1,28 @@
+{
+  "id": "urn:ngsi-ld:ShellfishBatch:1234",
+  "type": "ShellfishBatch",
+  "name": {
+    "type": "Property",
+    "value": "Batch Name"
+  },
+  "provenance": {
+    "type": "Property",
+    "value": "Batch Provenance"
+  },
+  "numberOfIndividuals": {
+    "type": "Property",
+    "value": 2500
+  },
+  "receptionDate": {
+    "type": "Property",
+    "value": "2025-01-31T00:00:00.000Z"
+  },
+  "batchIdentifier": {
+    "type": "Property",
+    "value": "LGT-1234"
+  },
+  "ploidy": {
+    "type": "Property",
+    "value": "Batch Ploidy"
+  }
+}

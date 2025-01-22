@@ -7,7 +7,6 @@
   },
   "isContainedIn": {
     "type": "Relationship",
-    "datasetId": "urn:ngsi-ld:Dataset:031f84ef-e30f-4fa3-8998-db56b2a72883",
     "object": "urn:ngsi-ld:ShellfishTable:031f84ef-e30f-4fa3-8998-db56b2a72883"
   }
 }

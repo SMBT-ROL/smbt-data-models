@@ -3,27 +3,33 @@
   "type": "ShellfishBatchProduction",
   "productionCycle": {
     "type": "Property",
-    "value": "Grossissement"
+    "value": "Grossissement",
+    "observedAt": "1970-01-01T00:00:00Z"
   },
   "breedingStructure": {
     "type": "Property",
-    "value": "Corde"
+    "value": "Corde",
+    "observedAt": "1970-01-01T00:00:00Z"
   },
   "numberOfBreedingStructures": {
     "type": "Property",
-    "value": 20
+    "value": 20,
+    "observedAt": "1970-01-01T00:00:00Z"
   },
   "numberOfIndividuals": {
     "type": "Property",
-    "value": 2000
+    "value": 2000,
+    "observedAt": "1970-01-01T00:00:00Z"
   },
   "size": {
     "type": "Property",
-    "value": "T8"
+    "value": "T8",
+    "observedAt": "1970-01-01T00:00:00Z"
   },
   "observations": {
     "type": "Property",
-    "value": "Looks tasty"
+    "value": "Looks tasty",
+    "observedAt": "1970-01-01T00:00:00Z"
   },
   "productionStartDate": {
     "type": "Property",
@@ -33,19 +39,17 @@
     "type": "Property",
     "value": "2025-01-31T00:00:00.000Z"
   },
-  "isFromBatch": {
+  "belongsToBatch": {
     "type": "Relationship",
-    "datasetId": "urn:ngsi-ld:Dataset:1234",
     "object": "urn:ngsi-ld:ShellfishBatch:1234"
   },
   "isDeployedIn": {
     "type": "Relationship",
-    "datasetId": "urn:ngsi-ld:Dataset:1234",
-    "object": "urn:ngsi-ld:ShellfishSquare:1234"
+    "object": "urn:ngsi-ld:ShellfishSquare:1234",
+    "observedAt": "1970-01-01T00:00:00Z"
   },
   "hasPreviousProduction": {
     "type": "Relationship",
-    "datasetId": "urn:ngsi-ld:Dataset:123",
     "object": "urn:ngsi-ld:ShellfishBatchProduction:123"
   }
 }

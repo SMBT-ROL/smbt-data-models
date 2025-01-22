@@ -1,0 +1,51 @@
+{
+  "id": "urn:ngsi-ld:ShellfishBatchProduction:1234",
+  "type": "ShellfishBatchProduction",
+  "productionCycle": {
+    "type": "Property",
+    "value": "Grossissement"
+  },
+  "breedingStructure": {
+    "type": "Property",
+    "value": "Corde"
+  },
+  "numberOfBreedingStructures": {
+    "type": "Property",
+    "value": 20
+  },
+  "numberOfIndividuals": {
+    "type": "Property",
+    "value": 2000
+  },
+  "size": {
+    "type": "Property",
+    "value": "T8"
+  },
+  "observations": {
+    "type": "Property",
+    "value": "Looks tasty"
+  },
+  "productionStartDate": {
+    "type": "Property",
+    "value": "2024-11-31T00:00:00.000Z"
+  },
+  "productionEndDate": {
+    "type": "Property",
+    "value": "2025-01-31T00:00:00.000Z"
+  },
+  "hasBatch": {
+    "type": "Relationship",
+    "datasetId": "urn:ngsi-ld:Dataset:1234",
+    "object": "urn:ngsi-ld:ShellfishBatch:1234"
+  },
+  "isDeployedIn": {
+    "type": "Relationship",
+    "datasetId": "urn:ngsi-ld:Dataset:1234",
+    "object": "urn:ngsi-ld:ShellfishSquare:1234"
+  },
+  "hasPreviousProduction": {
+    "type": "Relationship",
+    "datasetId": "urn:ngsi-ld:Dataset:123",
+    "object": "urn:ngsi-ld:ShellfishBatchProduction:123"
+  }
+}

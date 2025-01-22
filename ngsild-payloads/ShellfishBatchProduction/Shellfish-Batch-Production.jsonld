@@ -33,7 +33,7 @@
     "type": "Property",
     "value": "2025-01-31T00:00:00.000Z"
   },
-  "hasBatch": {
+  "isFromBatch": {
     "type": "Relationship",
     "datasetId": "urn:ngsi-ld:Dataset:1234",
     "object": "urn:ngsi-ld:ShellfishBatch:1234"

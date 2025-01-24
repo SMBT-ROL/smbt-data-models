@@ -10,6 +10,7 @@
         "avgTotalAliveIndividualsWeight": "https://smart-data-models.org/avgTotalAliveIndividualsWeight",
         "avgTotalWeight": "https://smart-data-models.org/avgTotalWeight",
         "batchAge": "https://smart-data-models.org/batchAge",
+        "belongsToShellfishProductionArea": "https://vocab.egm.io/belongsToShellfishProductionArea",
         "branchCode": "https://smart-data-models.org/branchCode",
         "breedingStructure": "https://smart-data-models.org/breedingStructure",
         "column": "https://smart-data-models.org/column",

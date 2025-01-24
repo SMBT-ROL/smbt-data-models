@@ -27,6 +27,10 @@
       ]
     }
   },
+  "belongsToShellfishProductionArea": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:ShellfishProductionArea:d3d11275-7a33-4c6a-98b3-75012c9d8d31"
+  },
   "chlorophyll": [
     {
       "type": "Property",

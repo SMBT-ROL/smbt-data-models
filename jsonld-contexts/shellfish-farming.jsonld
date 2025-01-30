@@ -41,6 +41,7 @@
         "inseeNumber": "https://smart-data-models.org/inseeNumber",
         "isContainedIn": "https://smart-data-models.org/isContainedIn",
         "isDeployedIn": "https://smart-data-models.org/isDeployedIn",
+        "isOccupied": "https://smart-data-models.org/isOccupied",
         "lastModifiedAt": "https://schema.org/lastModifiedAt",
         "legalName": "https://schema.org/legalName",
         "managementStructure": "https://smart-data-models.org/managementStructure",

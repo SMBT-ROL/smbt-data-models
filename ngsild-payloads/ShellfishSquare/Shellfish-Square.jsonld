@@ -5,7 +5,7 @@
     "type": "Property",
     "value": 2
   },
-  "isContainedIn": {
+  "hasShellfishTable": {
     "type": "Relationship",
     "object": "urn:ngsi-ld:ShellfishTable:031f84ef-e30f-4fa3-8998-db56b2a72883"
   }

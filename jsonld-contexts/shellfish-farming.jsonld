@@ -39,7 +39,6 @@
         "hasSubZones": "https://smart-data-models.org/hasSubZones",
         "initialDensity": "https://smart-data-models.org/initialDensity",
         "inseeNumber": "https://smart-data-models.org/inseeNumber",
-        "isContainedIn": "https://smart-data-models.org/isContainedIn",
         "isDeployedIn": "https://smart-data-models.org/isDeployedIn",
         "lastModifiedAt": "https://schema.org/lastModifiedAt",
         "legalName": "https://schema.org/legalName",

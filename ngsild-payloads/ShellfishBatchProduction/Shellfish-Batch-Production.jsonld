@@ -24,7 +24,7 @@
   "density": {
     "type": "Property",
     "value": 5,
-    "unitCode": "MTK",
+    "unitCode": "MTR",
     "observedAt": "1970-01-01T00:00:00Z"
   },
   "size": {

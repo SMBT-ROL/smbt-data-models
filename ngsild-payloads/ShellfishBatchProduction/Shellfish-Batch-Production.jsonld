@@ -23,8 +23,8 @@
   },
   "density": {
     "type": "Property",
-    "value": 10,
-    "unitCode": "C62",
+    "value": 5,
+    "unitCode": "MTK",
     "observedAt": "1970-01-01T00:00:00Z"
   },
   "size": {

@@ -23,6 +23,7 @@
         "decreeComment": "https://schema.org/decreeComment",
         "decreeFile": "https://schema.org/decreeFile",
         "decreeTitle": "https://schema.org/decreeTitle",
+        "density": "https://smart-data-models.org/density",
         "expiryDate": "https://smart-data-models.org/expiryDate",
         "familyName": "https://schema.org/familyName",
         "familyOfUse": "https://smart-data-models.org/familyOfUse",

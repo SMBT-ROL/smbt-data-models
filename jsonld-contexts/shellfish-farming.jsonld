@@ -34,6 +34,7 @@
         "gp1": "https://schema.org/gp1",
         "gp2": "https://schema.org/gp2",
         "gp3": "https://schema.org/gp3",
+        "harvestNotes": "https://smart-data-models.org/harvestNotes",
         "hasPreviousProduction": "https://smart-data-models.org/hasPreviousProduction",
         "hasShellfishTable": "https://smart-data-models.org/hasShellfishTable",
         "hasSubZones": "https://smart-data-models.org/hasSubZones",

@@ -15,6 +15,7 @@
         "belongsToShellfishProductionArea": "https://vocab.egm.io/belongsToShellfishProductionArea",
         "branchCode": "https://smart-data-models.org/branchCode",
         "breedingStructure": "https://smart-data-models.org/breedingStructure",
+        "category": "https://smart-data-models.org/category",
         "column": "https://smart-data-models.org/column",
         "comment": "https://schema.org/comment",
         "concessionNumber": "https://smart-data-models.org/concessionNumber",

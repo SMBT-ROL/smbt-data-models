@@ -53,6 +53,7 @@
         "numberOfBreedingStructures": "https://smart-data-models.org/numberOfBreedingStructures",
         "numberOfIndividuals": "https://smart-data-models.org/numberOfIndividuals",
         "observations": "https://smart-data-models.org/observations",
+        "overflow": "https://smart-data-models.org/overflow",
         "ownerNumber": "https://smart-data-models.org/ownerNumber",
         "parcel": "https://smart-data-models.org/parcel",
         "Person": "https://schema.org/Person",

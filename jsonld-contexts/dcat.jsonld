@@ -8,6 +8,7 @@
     "description": "http://purl.org/dc/terms/description",
     "Distribution": "http://www.w3.org/ns/dcat#Distribution",
     "documentation": "http://xmlns.com/foaf/0.1/Document",
+    "endDate": "https://www.w3.org/ns/dcat#endDate",
     "endpointURL": "http://www.w3.org/ns/dcat#endpointURL",
     "hasLogo": "http://xmlns.com/foaf/0.1/logo",
     "homepage": "http://xmlns.com/foaf/0.1/homepage",
@@ -16,6 +17,9 @@
     "landingPage": "http://www.w3.org/ns/dcat#landingPage",
     "servesDataset": "http://www.w3.org/ns/dcat#servesDataset",
     "service": "http://www.w3.org/ns/dcat#service",
+    "spatial": "http://purl.org/dc/terms/spatial",
+    "startDate": "https://www.w3.org/ns/dcat#startDate",
+    "temporal": "http://purl.org/dc/terms/temporal",
     "temporalResolution": "http://www.w3.org/ns/dcat#temporalResolution",
     "theme": "http://www.w3.org/ns/dcat#theme",
     "title": "http://purl.org/dc/terms/title"

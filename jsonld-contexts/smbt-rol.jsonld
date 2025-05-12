@@ -1,7 +1,6 @@
 {
     "@context": [
         "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/user-profile-compound.jsonld",
-        "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/dcat.jsonld",
         "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/shellfish-farming.jsonld",
         "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/water-observed-attributes.jsonld",
         "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/water-services.jsonld",

@@ -74,6 +74,18 @@
     "type": "Property",
     "value": "DML"
   },
+  "numberOfColumns": {
+    "type": "Property",
+    "value": 2
+  },
+  "numberOfRows": {
+    "type": "Property",
+    "value": 5
+  },
+  "squareOrderDirection": {
+    "type": "Property",
+    "value": "'LTR(Left to Right)' or 'RTL(Right to Left)' or 'UTD(Up to Down)' or 'DTU(Down to Up)'"
+  },
   "containedIn": {
     "type": "Relationship",
     "object": "urn:ngsi-ld:Place:TA"

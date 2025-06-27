@@ -2,6 +2,7 @@
     "@context": [
         "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/user-profile-compound.jsonld",
         "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/shellfish-farming.jsonld",
+        "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
         "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/water-observed-attributes.jsonld",
         "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/water-services.jsonld",
         "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/weather-observed-attributes.jsonld",
@@ -10,7 +11,6 @@
         "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/waterway-observed-attributes.jsonld",
         "https://easy-global-market.github.io/ngsild-api-data-models/alertEventRisk/jsonld-contexts/alertEventRisk.jsonld",
         "https://easy-global-market.github.io/ngsild-api-data-models/authorization/jsonld-contexts/authorization.jsonld",
-        "https://easy-global-market.github.io/ngsild-api-data-models/dcat/jsonld-contexts/dcat-compound.jsonld",
         "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.8.jsonld"
     ]
 }

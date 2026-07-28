@@ -1,0 +1,19 @@
+{
+    "@context": {
+        "DrainageBasin": "https://id.eaufrance.fr/ddd/ETH/2/BassinVersantTopographique",
+        "area": "https://vocab.egm.io/area",
+        "cdBH": "https://id.eaufrance.fr/ddd/ETH/2/CdBH",
+        "cdExutoire": "https://id.eaufrance.fr/ddd/ETH/2/CdOHExutoire",
+        "cdOH": "http://id.eaufrance.fr/ddd/ETH/2/CdOH",
+        "commentaireOH": "https://id.eaufrance.fr/ddd/ETH/2/CommentaireOH",
+        "creationDate": "https://id.eaufrance.fr/ddd/ETH/2/DateCreation",
+        "modObCoordiOH": "https://id.eaufrance.fr/ddd/ETH/2/ModObCoordiOH",
+        "origineBV": "https://id.eaufrance.fr/ddd/ETH/2/OrigineBV",
+        "precPlaniOH": "https://id.eaufrance.fr/ddd/ETH/2/PrecPlaniOH",
+        "sourceNomOH": "https://id.eaufrance.fr/ddd/ETH/2/SourceNomOH",
+        "statutNomOH": "https://id.eaufrance.fr/ddd/ETH/2/StatutNomOH",
+        "statutOH": "https://id.eaufrance.fr/ddd/ETH/2/StatutOH",
+        "topoOH": "http://id.eaufrance.fr/ddd/ETH/2/TopoOH",
+        "typTopoOH": "http://id.eaufrance.fr/ddd/ETH/2/TypTopoOH"
+    }
+}

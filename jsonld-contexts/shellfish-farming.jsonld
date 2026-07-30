@@ -73,6 +73,7 @@
         "receptionDate": "https://smart-data-models.org/receptionDate",
         "refShellfishTable": "https://smart-data-models.org/refShellfishTable",
         "regulationText": "https://schema.org/regulationText",
+        "relatesToSanitaryZone": "https://smart-data-models.org/relatesToSanitaryZone",
         "ropeLength": "https://smart-data-models.org/ropeLength",
         "sampleSize": "https://smart-data-models.org/sampleSize",
         "sanitaryStatus": "https://schema.org/sanitaryStatus",

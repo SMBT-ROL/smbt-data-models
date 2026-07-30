@@ -45,6 +45,7 @@
         "isDeployedIn": "https://smart-data-models.org/isDeployedIn",
         "lastModifiedAt": "https://schema.org/lastModifiedAt",
         "legalName": "https://schema.org/legalName",
+        "linear": "https://smart-data-models.org/linear",
         "managementStructure": "https://smart-data-models.org/managementStructure",
         "measuredIn": "https://smart-data-models.org/measuredIn",
         "monitoringYear": "https://smart-data-models.org/monitoringYear",

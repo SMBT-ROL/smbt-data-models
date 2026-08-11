@@ -131,7 +131,7 @@
         "tag": "https://smart-data-models.org/tag",
         "tagColor": "https://smart-data-models.org/tagColor",
         "totalAliveIndividualsWeight": "https://smart-data-models.org/totalAliveIndividualsWeight",
-        "totalCount": "https://smart-data-models.org/totalCount",
+        "totalIndividualsCount": "https://smart-data-models.org/totalIndividualsCount",
         "totalWeight": "https://smart-data-models.org/totalWeight"
     }
 }

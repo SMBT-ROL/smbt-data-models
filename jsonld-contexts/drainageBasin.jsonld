@@ -2,6 +2,7 @@
     "@context": {
         "DrainageBasin": "https://id.eaufrance.fr/ddd/ETH/2/BassinVersantTopographique",
         "area": "https://vocab.egm.io/area",
+        "belongsToImmediateDrainageBasin": "https://vocab.egm.io/belongsToImmediateDrainageBasin",
         "cdBH": "https://id.eaufrance.fr/ddd/ETH/2/CdBH",
         "cdExutoire": "https://id.eaufrance.fr/ddd/ETH/2/CdOHExutoire",
         "cdOH": "http://id.eaufrance.fr/ddd/ETH/2/CdOH",

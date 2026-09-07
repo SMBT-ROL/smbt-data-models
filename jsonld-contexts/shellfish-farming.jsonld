@@ -28,6 +28,7 @@
         "branchCode": "https://smart-data-models.org/branchCode",
         "breedingStructure": "https://smart-data-models.org/breedingStructure",
         "category": "https://smart-data-models.org/category",
+        "classifiedZone": "https://smart-data-models.org/classifiedZone",
         "column": "https://smart-data-models.org/column",
         "comment": "https://schema.org/comment",
         "commercialCount": "https://smart-data-models.org/commercialCount",

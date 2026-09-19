@@ -93,6 +93,7 @@
         "managementStructure": "https://smart-data-models.org/managementStructure",
         "maxLength": "https://smart-data-models.org/maxLength",
         "measuredIn": "https://smart-data-models.org/measuredIn",
+        "measuredPointsCount": "https://smart-data-models.org/measuredPointsCount",
         "microbiologicalStatus": "https://smart-data-models.org/microbiologicalStatus",
         "minLength": "https://smart-data-models.org/minLength",
         "monitoringYear": "https://smart-data-models.org/monitoringYear",

@@ -27,6 +27,7 @@
         "avgPolydora": "https://smart-data-models.org/avgPolydora",
         "avgPolydoraIndex": "https://smart-data-models.org/avgPolydoraIndex",
         "avgRecentDeadIndividuals": "https://smart-data-models.org/avgRecentDeadIndividuals",
+        "avgRecruitmentCount": "https://smart-data-models.org/avgRecruitmentCount",
         "avgRedAlgaeAbundance": "https://smart-data-models.org/avgRedAlgaeAbundance",
         "avgSampleWeight": "https://smart-data-models.org/avgSampleWeight",
         "avgSargassumAbundance": "https://smart-data-models.org/avgSargassumAbundance",

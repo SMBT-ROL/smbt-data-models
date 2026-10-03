@@ -136,6 +136,7 @@
         "sampleWeight": "https://smart-data-models.org/sampleWeight",
         "sanitaryClassification": "https://smart-data-models.org/sanitaryClassification",
         "sanitaryStatus": "https://schema.org/sanitaryStatus",
+        "SanitaryZone": "https://schema.org/SanitaryZone",
         "sector": "https://smart-data-models.org/sector",
         "ShellfishBatch": "https://vocab.egm.io/ShellfishBatch",
         "ShellfishBatchProduction": "https://vocab.egm.io/ShellfishBatchProduction",

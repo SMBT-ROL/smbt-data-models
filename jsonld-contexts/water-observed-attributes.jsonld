@@ -1,6 +1,8 @@
 {
     "@context": {
         "ammonium": "https://smartdatamodels.org/ammonium",
+        "avgEColi": "https://smartdatamodels.org/avgEColi",
+        "belowDetectionLimitCount": "https://smartdatamodels.org/belowDetectionLimitCount",
         "benzoFluoranthene": "https://smartdatamodels.org/benzoFluoranthene",
         "chlorophyllA": "https://smartdatamodels.org/chlorophyllA",
         "chlorophyllAA": "https://smartdatamodels.org/chlorophyllAA",

@@ -57,6 +57,7 @@
         "confidenceInterval": "https://smart-data-models.org/confidenceInterval",
         "Corporation": "https://schema.org/Corporation",
         "criticality": "https://smart-data-models.org/criticality",
+        "cumulativeMortalityRate": "https://smart-data-models.org/cumulativeMortalityRate",
         "cumulativeSurvival": "https://smart-data-models.org/cumulativeSurvival",
         "deadIndividuals": "https://smart-data-models.org/deadIndividuals",
         "deadIndividualsInSample": "https://smart-data-models.org/deadIndividualsInSample",
@@ -137,6 +138,7 @@
         "sanitaryClassification": "https://smart-data-models.org/sanitaryClassification",
         "sanitaryStatus": "https://schema.org/sanitaryStatus",
         "SanitaryZone": "https://schema.org/SanitaryZone",
+        "seasonalMortalityRate": "https://smart-data-models.org/seasonalMortalityRate",
         "sector": "https://smart-data-models.org/sector",
         "ShellfishBatch": "https://vocab.egm.io/ShellfishBatch",
         "ShellfishBatchProduction": "https://vocab.egm.io/ShellfishBatchProduction",
@@ -159,6 +161,8 @@
         "tagColor": "https://smart-data-models.org/tagColor",
         "totalAliveIndividualsWeight": "https://smart-data-models.org/totalAliveIndividualsWeight",
         "totalIndividualsCount": "https://smart-data-models.org/totalIndividualsCount",
-        "totalWeight": "https://smart-data-models.org/totalWeight"
+        "totalWeight": "https://smart-data-models.org/totalWeight",
+        "weightGain": "https://smart-data-models.org/weightGain",
+        "yieldPerBag": "https://smart-data-models.org/yieldPerBag"
     }
 }

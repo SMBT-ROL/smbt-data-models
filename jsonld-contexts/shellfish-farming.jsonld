@@ -26,7 +26,7 @@
         "avgPeriwinkleAbundance": "https://smart-data-models.org/avgPeriwinkleAbundance",
         "avgPolydora": "https://smart-data-models.org/avgPolydora",
         "avgPolydoraIndex": "https://smart-data-models.org/avgPolydoraIndex",
-        "avgPurification": "https://smart-data-models.org/avgPurification",
+        "avgPurificationDuration": "https://smart-data-models.org/avgPurificationDuration",
         "avgRecentDeadIndividuals": "https://smart-data-models.org/avgRecentDeadIndividuals",
         "avgRecruitmentCount": "https://smart-data-models.org/avgRecruitmentCount",
         "avgRedAlgaeAbundance": "https://smart-data-models.org/avgRedAlgaeAbundance",

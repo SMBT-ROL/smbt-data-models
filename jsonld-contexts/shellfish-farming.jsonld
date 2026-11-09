@@ -1,5 +1,6 @@
 {
     "@context": {
+        "acuteDiarrheaIncidenceRate": "https://smart-data-models.org/acuteDiarrheaIncidenceRate",
         "addressLocality": "https://schema.org/addressLocality",
         "aliveIndividuals": "https://smart-data-models.org/aliveIndividuals",
         "aliveIndividualsTotalWeight": "https://smart-data-models.org/aliveIndividualsTotalWeight",

@@ -13,6 +13,6 @@
         "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/drainageBasin.jsonld",
         "https://easy-global-market.github.io/ngsild-api-data-models/alertEventRisk/jsonld-contexts/alertEventRisk.jsonld",
         "https://easy-global-market.github.io/ngsild-api-data-models/authorization/jsonld-contexts/authorization.jsonld",
-        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v2.0.jsonld"
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.9.jsonld"
     ]
 }

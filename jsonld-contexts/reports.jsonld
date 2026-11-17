@@ -1,0 +1,9 @@
+{
+    "@context": {
+        "formSchema": "https://smart-data-models.org/formSchema",
+        "photos": "https://smart-data-models.org/photos",
+        "report": "https://smart-data-models.org/report",
+        "reportedBy": "https://smart-data-models.org/reportedBy",
+        "validityPeriod": "https://smart-data-models.org/validityPeriod"
+    }
+}

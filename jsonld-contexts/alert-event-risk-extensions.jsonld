@@ -1,7 +1,6 @@
 {
   "@context": {
     "EnvironmentalEvent": "https://vocab.egm.io/EnvironmentalEvent",
-    "Event": "https://vocab.egm.io/Event",
     "SanitaryEvent": "https://vocab.egm.io/SanitaryEvent",
     "ZoosanitaryEvent": "https://vocab.egm.io/ZoosanitaryEvent",
     "regulatory": "https://vocab.egm.io/regulatory"

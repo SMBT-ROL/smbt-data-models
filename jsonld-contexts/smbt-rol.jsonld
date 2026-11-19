@@ -12,6 +12,7 @@
         "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/waterway-observed-attributes.jsonld",
         "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/drainageBasin.jsonld",
         "https://easy-global-market.github.io/ngsild-api-data-models/alertEventRisk/jsonld-contexts/alertEventRisk.jsonld",
+        "https://smbt-rol.github.io/smbt-data-models/jsonld-contexts/alert-event-risk-extensions.jsonld",
         "https://easy-global-market.github.io/ngsild-api-data-models/authorization/jsonld-contexts/authorization.jsonld",
         "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.9.jsonld"
     ]
